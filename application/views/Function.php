@@ -48,7 +48,7 @@
         return $hasil;
     }
 
-    $nilai = 15300008;
+    $nilai = 124516 ;
     echo terbilang($nilai);
     ?>
 </body>
